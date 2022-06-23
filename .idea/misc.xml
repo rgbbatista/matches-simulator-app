@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/AndroidStudioDio/Simulador/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1325" />
         <entry key="..\:/AndroidStudioDio/Simulador/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1325" />
+        <entry key="..\:/AndroidStudioDio/Simulador/app/src/main/res/drawable/ic_simulate.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioDio/Simulador/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioDio/Simulador/app/src/main/res/layout/activity_detal.xml" value="0.1" />
         <entry key="..\:/AndroidStudioDio/Simulador/app/src/main/res/layout/activity_main.xml" value="0.15730337078651685" />
         <entry key="..\:/AndroidStudioDio/Simulador/app/src/main/res/layout/matche_item.xml" value="0.1" />
       </map>
